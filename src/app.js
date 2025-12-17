@@ -1,1 +1,1 @@
-console.log("Cloud Zero Day, starting...") 
+ Function startApp() {console.log("Cloud Zero Day, starting...") } 
