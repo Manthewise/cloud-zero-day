@@ -1,1 +1,1 @@
-console.log("Cloud Zero Day, starting...") 
+console.log("God is with manthewise");
